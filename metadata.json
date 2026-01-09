@@ -1,0 +1,7 @@
+{
+  "name": "Amigos De Los Animales",
+  "description": "A premium pet adoption platform for a local Puerto Rican animal shelter, featuring AI-powered pet matching and adorable rescue dogs looking for their forever homes.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
